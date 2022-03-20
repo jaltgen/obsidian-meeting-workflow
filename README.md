@@ -4,6 +4,11 @@
 
 This workflow helps to easily create meeting-minutes for project MOCs (I prefer to call them *dashboards*).
 
+
+https://user-images.githubusercontent.com/517885/159161602-6872c3e8-0918-45d5-81c3-b33835af34f7.mp4
+
+
+
 ## Why does it do it - Use-Case.
 
 My usecase is to quickly be able to create project-related meeting-minutes so I can always jot down notes with minimal effort if colleagues or clients crash-call me. This increases the **security of my knowledge about project work**, facilitates **better visibility of communications** by sharing meeting minutes, and also makes it easier to **hold stakeholders responsible** by being able to document who attended what meeting when where more reliably.
